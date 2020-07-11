@@ -159,7 +159,16 @@ HOST-SUFFIX,static.app.m.letv.com,AdBlock
 HOST-SUFFIX,webp2p.letv.com,AdBlock
 HOST-SUFFIX,zamplus.com,AdBlock
 
+# (G)
+# > Google
+DOMAIN-SUFFIX,doubleclick.net,AdBlock
+DOMAIN-SUFFIX,googleadservices.com,AdBlock
+DOMAIN-SUFFIX,googleadsserving.cn,AdBlock
+DOMAIN-SUFFIX,googlesyndication.com,AdBlock
+DOMAIN-SUFFIX,googletagservices.com,AdBlock
+
 # > Youtube
+DOMAIN,ads.youtube.com,AdBlock
 HOST-SUFFIX,azabu-u.ac.jp,AdBlock
 HOST-SUFFIX,couchcoaster.jp,AdBlock
 HOST-SUFFIX,delivery.dmkt-sp.jp,AdBlock
