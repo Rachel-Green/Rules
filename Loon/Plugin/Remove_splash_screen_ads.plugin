@@ -361,7 +361,7 @@ https:\/\/yanxuan.nosdn.127.net\/.*\.mp4 - reject
 # ^https?:\/\/ma-adx\.ctrip\.com\/_ma\.gif - reject
 # ^https?:\/\/m\.ctrip\.com\/restapi\/.+json\/tripAds - reject
 # ^https?:\/\/m\.ctrip\.com\/html5\/webresource\/js\/iscroll\.js$ - reject
-^https?:\/\/mbd\.baidu\.com\/newspage\/api\/getmobads\?page\=landingshare - reject
+# ^https?:\/\/mbd\.baidu\.com\/newspage\/api\/getmobads\?page\=landingshare - reject
 
 # > XiChuangZhu
 ^https?:\/\/lchttpapi\.xczim\.com\/1\.1\/functions\/getLaunchImageForIOS - reject
