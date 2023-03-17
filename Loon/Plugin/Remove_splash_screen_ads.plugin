@@ -358,7 +358,7 @@ https:\/\/yanxuan.nosdn.127.net\/.*\.mp4 - reject
 ^https?:\/\/api.psy-1.com\/cosleep\/startup - reject
 
 # > XieCheng
-^https?:\/\/ma-adx\.ctrip\.com\/_ma\.gif - reject
+# ^https?:\/\/ma-adx\.ctrip\.com\/_ma\.gif - reject
 # ^https?:\/\/m\.ctrip\.com\/restapi\/.+json\/tripAds - reject
 # ^https?:\/\/m\.ctrip\.com\/html5\/webresource\/js\/iscroll\.js$ - reject
 ^https?:\/\/mbd\.baidu\.com\/newspage\/api\/getmobads\?page\=landingshare - reject
