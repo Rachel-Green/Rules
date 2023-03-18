@@ -9,7 +9,7 @@
 skip-proxy = iosapps.itunes.apple.com
 
 [Script]
-http-request ^https?:\/\/testflight\.apple\.com\/v\d\/accounts\/.+?\/install$ requires-body=true,script-path=https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Resource/Script/TestFlight/TF_Download.js, tag=TestFlight解锁
+http-request ^https?:\/\/testflight\.apple\.com\/v\d\/accounts\/.+?\/install$ requires-body=true,script-path=https://raw.githubusercontent.com/Rachel-Green/Rules/master/Loon/Scripts/TestFlight/TF_Download.js, tag=TestFlight解锁
 
 [MITM]
 hostname = testflight.apple.com
