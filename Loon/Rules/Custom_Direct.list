@@ -15,6 +15,6 @@ DOMAIN-SUFFIX,ana.co.jp
 DOMAIN-SUFFIX,ysgc.fun
 
 # 酷航
-DOMAIN-SUFFIX,flyscoot.com
-DOMAIN-SUFFIX,zimperium.com
-DOMAIN,mobile.useinsider.com
+#DOMAIN-SUFFIX,flyscoot.com
+#DOMAIN-SUFFIX,zimperium.com
+#DOMAIN,mobile.useinsider.com
