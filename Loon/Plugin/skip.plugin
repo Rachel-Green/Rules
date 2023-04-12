@@ -2,4 +2,4 @@
 #!desc=跳过部分应用的代理检测，酷航app
 
 [General]
-skip-proxy = *.flyscoot.com,*.zimperium.com,mobile.useinsider.com
+skip-proxy = *.flyscoot.com,*.zimperium.com,mobile.useinsider.com,passenger.t3go.cn,*.icbc.com.cn,*.boc.cn
