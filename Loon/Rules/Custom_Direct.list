@@ -18,3 +18,8 @@ DOMAIN-SUFFIX,ysgc.fun
 #DOMAIN-SUFFIX,flyscoot.com
 #DOMAIN-SUFFIX,zimperium.com
 #DOMAIN,mobile.useinsider.com
+
+
+# Hilton
+DOMAIN-SUFFIX,hiltonapi.com
+DOMAIN-SUFFIX,hilton.io
