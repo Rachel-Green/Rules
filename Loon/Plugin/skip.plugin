@@ -3,4 +3,4 @@
 
 # *.flyscoot.com,*.zimperium.com,
 [General]
-skip-proxy = zapac.zimperium.com,zapac-rfd.zimperium.com,stest.zimperium.com,certs.zimperium.com,www.flyscoot.com,scoot-prod.open.flyscoot.com,mobile.useinsider.com,passenger.t3go.cn,*.icbc.com.cn,*.boc.cn
+skip-proxy = zapac.zimperium.com,zapac-rfd.zimperium.com,stest.zimperium.com,certs.zimperium.com,www.flyscoot.com,scoot-prod.open.flyscoot.com,mobile.useinsider.com,passenger.t3go.cn,*.icbc.com.cn,*.boc.cn,app.csair.com
