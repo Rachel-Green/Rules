@@ -3,4 +3,4 @@
 
 # *.flyscoot.com,*.zimperium.com,
 [General]
-skip-proxy = mobile.useinsider.com,passenger.t3go.cn,*.icbc.com.cn,*.boc.cn,app.csair.com
+skip-proxy = passenger.t3go.cn,*.icbc.com.cn,*.boc.cn,app.csair.com
